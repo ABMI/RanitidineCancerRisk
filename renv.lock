@@ -509,7 +509,7 @@
 		},
 		"zip" : {
 			"Package" : "zip",
-			"Version" : "2.1.0",
+			"Version" : "2.1.1",
 			"Source" : "Repository",
 			"Repository" : "CRAN"
 		},
@@ -857,7 +857,8 @@
       "RemoteHost" : "api.github.com",
       "RemoteRepo" : "RanitidineCancerRisk",
       "RemoteUsername" : "ohdsi-studies",
-      "RemoteRef" : "v0.5"
+      "RemoteRef" : "v0.5",
+      "Hash": "31f4f7a09754a34f2f66cfd3c460e0cc4c561ac4"
     }
 	}
 }

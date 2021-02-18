@@ -34,11 +34,6 @@ Suggests:
     DT,
     shiny,
     testthat
-Remotes:
-    ohdsi/FeatureExtraction,
-    ohdsi/CohortMethod,
-    ohdsi/MethodEvaluation,
-    ohdsi/OhdsiSharing
 License: Apache License 2.0
 VignetteBuilder: knitr
 LazyData: TRUE
